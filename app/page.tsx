@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import React from 'react';
 
 const App = () => {
@@ -13,7 +14,7 @@ const App = () => {
       <section className="py-10 px-5">
         <h2 className="text-3xl font-semibold text-center mb-8">Featured Product</h2>
         <div className="flex flex-col items-center">
-          <img
+          <Image
             src="https://via.placeholder.com/600x400" 
             alt="Featured Product"
             className="w-full max-w-lg rounded-lg shadow-md"
