@@ -31,7 +31,7 @@ const About = () => {
           We believe in transparency, integrity, and building long-lasting relationships with our customers.
         </p>
         <p className="text-gray-700 text-base mb-4">
-          Whether you're looking for something specific or just browsing, we're here to help you find the perfect
+          Whether you&apos;re looking for something specific or just browsing, we&apos;re here to help you find the perfect
           product for you. Thank you for choosing us!
         </p>
         <div className="text-center mt-6">
