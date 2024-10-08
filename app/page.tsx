@@ -18,11 +18,13 @@ const App = () => {
             src="https://via.placeholder.com/600x400" 
             alt="Featured Product"
             className="w-full max-w-lg rounded-lg shadow-md"
+            width={600} 
+            height={400} 
           />
           <p className="text-gray-700 text-center mt-4 mx-auto max-w-prose">
             Explore our latest featured product that combines quality and style. 
             Perfect for your needs, it offers excellent performance at an affordable price. 
-            Don't miss out on this amazing offer!
+            Don&apos;t miss out on this amazing offer! 
           </p>
         </div>
       </section>
